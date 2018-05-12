@@ -1,0 +1,31 @@
+_repo: The-Introduction-of-Self-Registering-Meteorological-Instruments_32482
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32482-h/images/cover.png
+creator:
+  author:
+    agent_name: Multhauf, Robert P.
+    birthdate: 1919
+    deathdate: 2004
+    gutenberg_agent_id: '34963'
+    url: http://www.gutenberg.org/2009/agents/34963
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Manufacturing
+gutenberg_issued: '2010-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32482'
+  lccn: '61062378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meteorological instruments'
+- !lcc 'T'
+- !lcc 'Q'
+title: The Introduction of Self-Registering Meteorological Instruments
+url: http://www.gutenberg.org/ebooks/32482
